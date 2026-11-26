@@ -26,3 +26,4 @@ dist-ssr
 # Exclude backup folders
 chamber_brief_bank_backups/
 *.backup
+.env.local
